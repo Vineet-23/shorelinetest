@@ -1,0 +1,12 @@
+.image-original {
+  width: auto;
+  height: auto;
+  max-width: 100%; /* Ensure it doesn't exceed the width of the card */
+  max-height: 100%; /* Ensure it doesn't exceed the height of the card */
+  display: block;
+  margin: 0 auto; /* Center the image */
+}
+.image-resize {
+  width: 100px;
+  height: 260px;
+}
